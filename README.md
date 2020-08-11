@@ -1,6 +1,2 @@
 # hello-world
-First Repository
-
-Hi Folks,
-
-Have a wonderful day..!!!
+This repo would be poppulated with lots of checks.
