@@ -3,3 +3,4 @@ Temporary file has been modified.
 Used git pull.
 
 Refactored this temp.txt from refactor branch.
+Another refactored - iteration spent
